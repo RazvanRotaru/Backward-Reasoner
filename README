@@ -1,0 +1,7 @@
+Rotaru Razvan Paul
+341C3
+Tema 2 IA
+
+Pentru rulare: python RotaruRazvan29.py /tests/<test>.txt
+argumente: -v pentru afisarea mesajelor
+			-c pentru teste ce contin coeficienti
